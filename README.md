@@ -19,7 +19,7 @@ The solution will enhance the company’s revenues and reduce the losses caused 
 
 <a id='motivate'></a>
 ### Project Motivation
-This project is about applying data analytics and Machine Learning(ML) skills to gather, clean, analyze, and build a ML classifier pipeline that classifies transactions whether fraudulent or not. The disaster data is obtained from Appen (formally Figure 8). Details about the company [here](https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge).<br>  
+This project is about applying data analytics and Machine Learning(ML) skills to gather, clean, analyze, and build a ML classifier pipeline that classifies transactions whether fraudulent or not.  
 
 <a id='describe'></a>
 ### File Descriptions
